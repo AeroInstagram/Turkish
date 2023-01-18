@@ -14,87 +14,83 @@ Her şeyi indir
 <h1>02</h1>
 
 Gizlilik
-Görünüm hikayelerini gizleme, canlı akışları görüntüleme, yazma ... ve mesajları okuma yeteneği.
+> Görünüm hikayelerini gizleme, canlı akışları görüntüleme, yazma ... ve mesajları okuma yeteneği.
 
 <h1>03</h1>
 
 Sizi takip eder ya da takip etmez
-Bir kullanıcının sizi takip edip etmediğini öğrenme yeteneği, profilini ziyaret ederek sizi takip eder.
+> Bir kullanıcının sizi takip edip etmediğini öğrenme yeteneği, profilini ziyaret ederek sizi takip eder.
 
 <h1>04</h1>
 
 ADS'yi gizle
-Hikayelerdeki ve feed'inizdeki tüm düzenli ve alışveriş reklamlarını gizler.
+> Hikayelerdeki ve feed'inizdeki tüm düzenli ve alışveriş reklamlarını gizler.
 
 <h1>05</h1>
 
 Analitiği devre dışı bırak
-Insta'nın hesabınız hakkında veri toplamasını engelleme yeteneği.
+> Insta'nın hesabınız hakkında veri toplamasını engelleme yeteneği.
 
 <h1>06</h1>
 
 Tam kaliteli fotoğraflar
-Insta'nın fotoğrafları sıkıştırmasını önleme imkanı.
+> Insta'nın fotoğrafları sıkıştırmasını önleme imkanı.
 
 <h1>07</h1>
 
-Gezinmek için kaydır
-DM'yi açmak için soldan sağa veya soldan sağa kaymayı etkinleştirme / devre dışı bırakma yeteneği.
+Gezinmek için kaydırDM'yi açmak için soldan sağa veya soldan sağa kaymayı etkinleştirme / devre dışı bırakma yeteneği.
 
 <h1>08</h1>
 
-Uygulama İçi Tarayıcı
-Uygulamada değil, cihazınızda yüklü olan tarayıcılar aracılığıyla açmak için Insta'ya dokunduğunuz bağlantıları ayarlama yeteneği.
+Uygulama İçi TarayıcıUygulamada değil, cihazınızda yüklü olan tarayıcılar aracılığıyla açmak için Insta'ya dokunduğunuz bağlantıları ayarlama yeteneği.
 
 <h1>09</h1>
 
-Sesle çal
-Ekrana dokunmadan başlangıç hikayelerini ve yayınlarını otomatik olarak seslendirme yeteneği.
+Sesle çalEkrana dokunmadan başlangıç hikayelerini ve yayınlarını otomatik olarak seslendirme yeteneği.
 
 <h1>10</h1>
 
 Hikayeleri otomatik atlamayı devre dışı bırak
-Hikayelerin otomatik atlamasını devre dışı bırakma yeteneği.
+> Hikayelerin otomatik atlamasını devre dışı bırakma yeteneği.
 
 <h1>11</h1>
 
 Siyah sınırları kaldır
-Siyah sınırları hikayelerden kaldırabilme.
+> Siyah sınırları hikayelerden kaldırabilme.
 
 <h1>12</h1>
 
-Hikayeleri kırpmayın
-Ekranın genişliğine göre kırpmadan hikayeleri paylaşma yeteneği.
+Hikayeleri kırpmayınEkranın genişliğine göre kırpmadan hikayeleri paylaşma yeteneği.
 
 <h1>13</h1>
 
 Yakınlaştırmak için uzun dokunun
-Resim içeriğine sahip herhangi bir yayını tam ekranda görüntüleyebilme. Mesajları tam ekran görüntülerken parmak hareketlerini kullanarak istediğiniz kadar yakınlaştırabilir ve uzaklaştırabilirsiniz.
+> Resim içeriğine sahip herhangi bir yayını tam ekranda görüntüleyebilme. Mesajları tam ekran görüntülerken parmak hareketlerini kullanarak istediğiniz kadar yakınlaştırabilir ve uzaklaştırabilirsiniz.
 
 <h1>14</h1>
 
 Üçlü musluk ile mesajları indir
-Herhangi bir gönderiye 3 kez dokunun, yayın cihazınıza indirilecektir.
+> Herhangi bir gönderiye 3 kez dokunun, yayın cihazınıza indirilecektir.
 
 <h1>15</h1>
 
 Beğenmek için çift dokunun
-Çift dokunarak beğenileri etkinleştirme veya devre dışı bırakma yeteneği.
+> Çift dokunarak beğenileri etkinleştirme veya devre dışı bırakma yeteneği.
 
 <h1>16</h1>
 
 Her zaman ilk medya
-Birden fazla ortama sahip yayınlar için her zaman ilk medyayı gösterme yeteneği.
+> Birden fazla ortama sahip yayınlar için her zaman ilk medyayı gösterme yeteneği.
 
 <h1>17</h1>
 
 Video otomatik oynatma
-Video otomatik oynatmayı etkinleştirme / devre dışı bırakma yeteneği.
+> Video otomatik oynatmayı etkinleştirme / devre dışı bırakma yeteneği.
 
 <h1>18</h1>
 
 Beğenilen mesajları kaldır
-Daha önce beğendiğiniz yayınları gizleme yeteneği.
+> Daha önce beğendiğiniz yayınları gizleme yeteneği.
 
 İletişim
 merhaba demekten çekinmeyin
